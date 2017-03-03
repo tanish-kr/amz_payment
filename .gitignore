@@ -35,3 +35,7 @@ jspm_packages
 
 # nodenv
 .node-version
+
+*.swp
+*.swo
+.DS_Store
